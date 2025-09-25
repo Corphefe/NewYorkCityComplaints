@@ -1,2 +1,2 @@
 # NewYorkCityComplaints
-Data Science Project
+Data Science Project to generate interactive visualizations for NYC zip code discrepencies
